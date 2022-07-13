@@ -96,6 +96,11 @@ There are many **Linux** players you can chose, such as **vlc**, **mplauer2** an
 
 ![](https://p10.tr2.n0.cdn.getcloudapp.com/items/2Num7kmJ/fe4c4158-7c25-48e1-be70-ca9779bceefe.jpg?v=0eb09e719ac5088c02eb9df207a94d4b)
 
+3. use `scp` copy music from my laptop to **Pi**'s Desktop
+
+	scp Glass_Violet_-_A_View_From_The_Vale.mp3 pi@10.4.2.40:Desktop/
+
+
  
 ### HiFiBerry
 
